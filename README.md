@@ -1,5 +1,5 @@
 # Intro-to-Programming-II-Projects
-My assignments from EECS 161 written in C++
+My assignments from EECS 162 written in C++
 
 These projects range from Connect 4 that Poker implemented with classes.
 
